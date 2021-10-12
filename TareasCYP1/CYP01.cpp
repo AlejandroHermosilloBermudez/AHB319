@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//Ostia tio que emocion
 int main()
 {
 	float porcentajex, porcentajey, porcentajeanchoelemento, porcentajealtoelemento;
